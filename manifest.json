@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "lb_to_kg",
+  "version": "1.0",
+
+  "description": "Transforms weights from lbs to kgs.",
+
+  "icons": {
+    "48": "icons/icon.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["lb_to_kg.js"]
+    }
+  ]
+}
+
