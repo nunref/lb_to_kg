@@ -4,11 +4,11 @@ The extension transforms units in pounds (lb) to kilograms (kg).
 
 This simple html:
 
-![](images/pre-extension.html)
+![](images/pre-extension.png)
 
 transforms into this:
 
-![](images/post-extension.html)
+![](images/post-extension.png)
 
 References:
 
